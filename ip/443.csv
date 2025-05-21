@@ -1,24 +1,29 @@
-IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-152.70.155.147,2083,true,US,North America,Los Angeles,231 ms,7128 kB/s
-150.230.63.93,443,true,JP,Asia Pacific,Osaka,210 ms,6119 kB/s
-64.110.104.30,443,true,JP,Asia Pacific,Osaka,214 ms,5852 kB/s
-8.219.168.241,443,true,SG,Asia Pacific,Singapore,233 ms,5558 kB/s
-141.148.187.195,443,true,US,North America,Los Angeles,212 ms,5506 kB/s
-141.147.85.167,8443,true,UK,Europe,London,292 ms,5347 kB/s
-64.110.101.31,8443,true,JP,Asia Pacific,Osaka,194 ms,5300 kB/s
-132.226.5.170,443,true,US,North America,Los Angeles,219 ms,5103 kB/s
-141.144.202.73,443,true,DE,Europe,Frankfurt,284 ms,4817 kB/s
-150.230.146.170,2053,true,DE,Europe,Frankfurt,308 ms,4719 kB/s
-192.9.250.241,443,true,US,North America,San Jose,212 ms,4703 kB/s
-150.230.20.156,2053,true,NL,Europe,Amsterdam,308 ms,4578 kB/s
-47.74.157.194,443,true,SG,Asia Pacific,Singapore,125 ms,4458 kB/s
-150.230.20.4,443,true,NL,Europe,Amsterdam,290 ms,3983 kB/s
-138.3.240.63,443,true,DE,Europe,Frankfurt,279 ms,3844 kB/s
-150.230.159.76,443,true,DE,Europe,Frankfurt,369 ms,3840 kB/s
-130.61.107.238,8443,true,DE,Europe,Frankfurt,291 ms,2844 kB/s
-130.61.124.127,443,true,DE,Europe,Frankfurt,294 ms,2801 kB/s
-168.138.184.172,443,true,SG,Asia Pacific,Singapore,450 ms,2591 kB/s
-141.147.185.15,443,true,JP,Asia Pacific,Tokyo,145 ms,2561 kB/s
-158.180.231.216,443,true,IT,Europe,Milan,277 ms,2229 kB/s
-150.230.20.156,8443,true,NL,Europe,Amsterdam,320 ms,1791 kB/s
-141.148.203.6,443,true,IN,Asia Pacific,Mumbai,378 ms,1116 kB/s
+IP鍦板潃,绔彛,TLS,鏁版嵁涓績,鍦板尯,鍩庡競,缃戠粶寤惰繜,涓嬭浇閫熷害
+47.74.157.194,443,true,SG,Asia Pacific,Singapore,101 ms,10887 kB/s
+141.147.147.180,443,true,JP,Asia Pacific,Osaka,235 ms,6743 kB/s
+152.70.155.147,2096,true,US,North America,Los Angeles,240 ms,6556 kB/s
+64.110.101.31,8443,true,JP,Asia Pacific,Osaka,217 ms,6345 kB/s
+64.110.104.30,443,true,JP,Asia Pacific,Osaka,212 ms,5860 kB/s
+150.230.216.220,443,true,SG,Asia Pacific,Singapore,267 ms,5391 kB/s
+130.61.124.127,443,true,DE,Europe,Frankfurt,272 ms,5286 kB/s
+193.122.114.82,443,true,KR,Asia Pacific,Seoul,238 ms,5237 kB/s
+141.147.114.60,443,true,UK,Europe,London,270 ms,4959 kB/s
+141.147.85.167,8443,true,UK,Europe,London,261 ms,4644 kB/s
+129.154.194.191,443,true,KR,Asia Pacific,Seoul,264 ms,4586 kB/s
+138.2.68.173,443,true,SG,Asia Pacific,Singapore,271 ms,4572 kB/s
+141.148.187.195,443,true,US,North America,Los Angeles,230 ms,4416 kB/s
+138.3.240.63,443,true,DE,Europe,Frankfurt,315 ms,4321 kB/s
+144.22.252.124,443,true,BR,South America,S?o Paulo,377 ms,4266 kB/s
+144.21.33.220,443,true,DE,Europe,Frankfurt,289 ms,4231 kB/s
+150.230.20.4,443,true,NL,Europe,Amsterdam,295 ms,4198 kB/s
+8.220.134.136,443,true,SG,Asia Pacific,Singapore,400 ms,4185 kB/s
+144.21.43.236,443,true,DE,Europe,Frankfurt,289 ms,3900 kB/s
+141.145.205.115,8443,true,FA,Europe,Paris,275 ms,3511 kB/s
+130.61.107.238,8443,true,DE,Europe,Frankfurt,303 ms,3004 kB/s
+150.230.146.170,2053,true,DE,Europe,Frankfurt,312 ms,2913 kB/s
+141.148.189.124,443,true,US,North America,Los Angeles,227 ms,2772 kB/s
+132.145.94.80,443,true,KR,Asia Pacific,Seoul,228 ms,2666 kB/s
+152.67.99.162,443,true,AU,Oceania,Sydney,335 ms,1906 kB/s
+129.151.198.3,2053,true,SE,Europe,Stockholm,318 ms,1531 kB/s
+129.159.129.107,2053,true,IL,Middle East,Tel Aviv,317 ms,1124 kB/s
+130.162.130.105,443,true,KR,Asia Pacific,Seoul,234 ms,1094 kB/s
