@@ -1,29 +1,14 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-47.74.157.194,443,true,SG,Asia Pacific,Singapore,101 ms,10887 kB/s
-141.147.147.180,443,true,JP,Asia Pacific,Osaka,235 ms,6743 kB/s
-152.70.155.147,2096,true,US,North America,Los Angeles,240 ms,6556 kB/s
-64.110.101.31,8443,true,JP,Asia Pacific,Osaka,217 ms,6345 kB/s
-64.110.104.30,443,true,JP,Asia Pacific,Osaka,212 ms,5860 kB/s
-150.230.216.220,443,true,SG,Asia Pacific,Singapore,267 ms,5391 kB/s
-130.61.124.127,443,true,DE,Europe,Frankfurt,272 ms,5286 kB/s
-193.122.114.82,443,true,KR,Asia Pacific,Seoul,238 ms,5237 kB/s
-141.147.114.60,443,true,UK,Europe,London,270 ms,4959 kB/s
-141.147.85.167,8443,true,UK,Europe,London,261 ms,4644 kB/s
-129.154.194.191,443,true,KR,Asia Pacific,Seoul,264 ms,4586 kB/s
-138.2.68.173,443,true,SG,Asia Pacific,Singapore,271 ms,4572 kB/s
-141.148.187.195,443,true,US,North America,Los Angeles,230 ms,4416 kB/s
-138.3.240.63,443,true,DE,Europe,Frankfurt,315 ms,4321 kB/s
-144.22.252.124,443,true,BR,South America,S?o Paulo,377 ms,4266 kB/s
-144.21.33.220,443,true,DE,Europe,Frankfurt,289 ms,4231 kB/s
-150.230.20.4,443,true,NL,Europe,Amsterdam,295 ms,4198 kB/s
-8.220.134.136,443,true,SG,Asia Pacific,Singapore,400 ms,4185 kB/s
-144.21.43.236,443,true,DE,Europe,Frankfurt,289 ms,3900 kB/s
-141.145.205.115,8443,true,FA,Europe,Paris,275 ms,3511 kB/s
-130.61.107.238,8443,true,DE,Europe,Frankfurt,303 ms,3004 kB/s
-150.230.146.170,2053,true,DE,Europe,Frankfurt,312 ms,2913 kB/s
-141.148.189.124,443,true,US,North America,Los Angeles,227 ms,2772 kB/s
-132.145.94.80,443,true,KR,Asia Pacific,Seoul,228 ms,2666 kB/s
-152.67.99.162,443,true,AU,Oceania,Sydney,335 ms,1906 kB/s
-129.151.198.3,2053,true,SE,Europe,Stockholm,318 ms,1531 kB/s
-129.159.129.107,2053,true,IL,Middle East,Tel Aviv,317 ms,1124 kB/s
-130.162.130.105,443,true,KR,Asia Pacific,Seoul,234 ms,1094 kB/s
+152.70.155.147,2096,true,US,North America,Los Angeles,291 ms,7113 kB/s
+64.110.101.31,8443,true,JP,Asia Pacific,Osaka,280 ms,5062 kB/s
+141.147.147.180,443,true,JP,Asia Pacific,Osaka,223 ms,4644 kB/s
+152.70.155.147,2083,true,US,North America,Los Angeles,217 ms,4358 kB/s
+152.70.155.147,443,true,US,North America,Los Angeles,266 ms,4120 kB/s
+64.110.104.30,443,true,JP,Asia Pacific,Osaka,207 ms,3249 kB/s
+129.151.198.3,2053,true,SE,Europe,Stockholm,297 ms,3002 kB/s
+130.61.124.127,443,true,DE,Europe,Frankfurt,280 ms,2589 kB/s
+168.138.184.172,443,true,SG,Asia Pacific,Singapore,305 ms,2246 kB/s
+150.230.20.4,443,true,NL,Europe,Amsterdam,269 ms,2191 kB/s
+150.230.159.76,443,true,DE,Europe,Frankfurt,305 ms,1935 kB/s
+141.148.229.106,443,true,NL,Europe,Amsterdam,321 ms,1623 kB/s
+8.220.134.136,443,true,SG,Asia Pacific,Singapore,291 ms,1237 kB/s
