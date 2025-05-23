@@ -1,0 +1,29 @@
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+47.74.157.194,443,true,SG,Asia Pacific,SGgapore,105 ms,6874 kB/s
+152.70.155.147,2083,true,US,North America,Los Angeles,221 ms,6147 kB/s
+141.148.189.124,443,true,US,North America,Los Angeles,221 ms,5771 kB/s
+152.70.155.147,2096,true,US,North America,Los Angeles,229 ms,5649 kB/s
+152.70.155.147,2053,true,US,North America,Los Angeles,276 ms,5605 kB/s
+152.70.155.147,443,true,US,North America,Los Angeles,214 ms,5271 kB/s
+64.110.104.30,443,true,JP,Asia Pacific,Osaka,199 ms,5189 kB/s
+150.230.146.170,2053,true,DE,Europe,DEnkfurt,341 ms,4841 kB/s
+129.154.194.191,443,true,KR,Asia Pacific,Seoul,243 ms,4684 kB/s
+64.110.101.31,8443,true,JP,Asia Pacific,Osaka,214 ms,4659 kB/s
+129.159.202.83,443,true,DE,Europe,DEnkfurt,258 ms,4647 kB/s
+130.162.130.105,443,true,KR,Asia Pacific,Seoul,227 ms,4606 kB/s
+152.67.125.174,443,true,AU,Oceania,AUney,347 ms,4534 kB/s
+138.2.68.173,443,true,SG,Asia Pacific,SGgapore,266 ms,4511 kB/s
+152.67.125.161,443,true,AU,Oceania,AUney,330 ms,4447 kB/s
+193.122.114.82,443,true,KR,Asia Pacific,Seoul,257 ms,4327 kB/s
+141.148.187.195,443,true,US,North America,Los Angeles,205 ms,4061 kB/s
+141.148.203.6,443,true,IN,Asia Pacific,Mumbai,342 ms,4019 kB/s
+144.21.42.2,443,true,DE,Europe,DEnkfurt,306 ms,3955 kB/s
+192.9.180.162,443,true,AU,Oceania,AUney,331 ms,3945 kB/s
+141.147.85.167,8443,true,UK,Europe,London,316 ms,3788 kB/s
+141.148.229.106,443,true,NL,Europe,NLterdam,289 ms,3710 kB/s
+130.61.124.127,443,true,DE,Europe,DEnkfurt,255 ms,3498 kB/s
+150.230.20.156,8443,true,NL,Europe,NLterdam,319 ms,2637 kB/s
+150.230.20.4,443,true,NL,Europe,NLterdam,308 ms,2626 kB/s
+150.230.20.156,2053,true,NL,Europe,NLterdam,362 ms,2545 kB/s
+192.9.250.241,443,true,US,North America,San Jose,192 ms,2029 kB/s
+152.67.99.162,443,true,AU,Oceania,AUney,349 ms,2010 kB/s
