@@ -1,0 +1,14 @@
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+64.110.101.31,8443,true,JP,Asia Pacific,Osaka,221 ms,5588 kB/s
+152.70.155.147,2096,true,US,North America,Los Angeles,254 ms,5027 kB/s
+141.145.216.142,2087,true,FA,Europe,Paris,473 ms,4696 kB/s
+144.22.252.124,443,true,BR,South America,S?o Paulo,373 ms,4305 kB/s
+152.70.155.147,2083,true,US,North America,Los Angeles,329 ms,4182 kB/s
+8.220.134.136,443,true,SG,Asia Pacific,Singapore,388 ms,3908 kB/s
+141.148.189.124,443,true,US,North America,Los Angeles,232 ms,3783 kB/s
+141.147.114.60,443,true,UK,Europe,London,345 ms,3473 kB/s
+129.151.198.3,8443,true,SE,Europe,Stockholm,323 ms,2064 kB/s
+129.159.129.107,2053,true,DE,Europe,DEnkfurt,299 ms,2020 kB/s
+150.230.20.156,2053,true,NL,Europe,Amsterdam,294 ms,1361 kB/s
+129.159.143.171,8443,true,DE,Europe,DEnkfurt,299 ms,1261 kB/s
+129.159.143.171,2053,true,DE,Europe,DEnkfurt,300 ms,1001 kB/s
