@@ -1,0 +1,27 @@
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+150.230.216.211,443,true,US,North America,Los Angeles,204 ms,6410 kB/s
+150.230.20.156,2053,true,NL,Europe,NLterdam,320 ms,4827 kB/s
+150.230.146.170,2053,true,DE,Europe,DEnkfurt,298 ms,4591 kB/s
+64.110.101.31,8443,true,JP,Asia Pacific,Osaka,224 ms,4566 kB/s
+141.147.85.167,8443,true,UK,Europe,London,306 ms,4477 kB/s
+130.61.51.100,8443,true,DE,Europe,DEnkfurt,286 ms,4439 kB/s
+150.230.20.4,443,true,NL,Europe,NLterdam,291 ms,4430 kB/s
+47.253.105.131,443,true,US,North America,Ashburn,279 ms,4421 kB/s
+141.145.216.142,2087,true,FA,Europe,Paris,279 ms,4406 kB/s
+138.3.240.63,443,true,DE,Europe,DEnkfurt,320 ms,4033 kB/s
+144.22.252.124,443,true,BR,South America,S?o Paulo,376 ms,3886 kB/s
+130.61.107.238,8443,true,DE,Europe,DEnkfurt,293 ms,3760 kB/s
+130.61.124.127,443,true,DE,Europe,DEnkfurt,299 ms,2584 kB/s
+129.159.143.171,8443,true,IL,Middle East,Tel Aviv,334 ms,2516 kB/s
+150.230.20.156,8443,true,NL,Europe,NLterdam,292 ms,2487 kB/s
+150.230.159.76,443,true,DE,Europe,DEnkfurt,286 ms,2246 kB/s
+158.180.231.216,443,true,IT,Europe,Milan,319 ms,2231 kB/s
+129.151.198.3,2053,true,SE,Europe,Stockholm,308 ms,1926 kB/s
+129.158.198.241,2053,true,US,North America,Ashburn,302 ms,1566 kB/s
+129.159.132.0,2053,true,IL,Middle East,Tel Aviv,296 ms,1466 kB/s
+
+
+
+
+
+
