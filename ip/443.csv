@@ -1,0 +1,19 @@
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+64.110.104.30,443,true,JP,Asia Pacific,Osaka,245 ms,5266 kB/s
+141.145.216.142,2087,true,FA,Europe,Paris,288 ms,4955 kB/s
+64.110.101.31,8443,true,JP,Asia Pacific,Osaka,205 ms,4260 kB/s
+141.147.85.167,8443,true,UK,Europe,London,309 ms,4064 kB/s
+129.153.203.62,443,true,US,North America,Los Angeles,242 ms,4031 kB/s
+150.230.146.170,2053,true,DE,Europe,DEnkfurt,332 ms,4006 kB/s
+47.253.105.131,443,true,US,North America,Ashburn,306 ms,3853 kB/s
+150.230.159.76,443,true,DE,Europe,DEnkfurt,294 ms,3268 kB/s
+141.147.114.60,443,true,UK,Europe,London,324 ms,2937 kB/s
+138.2.107.107,443,true,SG,Asia Pacific,SGgapore,277 ms,2802 kB/s
+141.145.205.115,8443,true,FA,Europe,Paris,279 ms,2478 kB/s
+130.61.107.238,8443,true,DE,Europe,DEnkfurt,284 ms,2081 kB/s
+150.230.20.4,443,true,NL,Europe,NLterdam,318 ms,1979 kB/s
+141.148.189.124,443,true,US,North America,Phoenix,286 ms,1796 kB/s
+129.154.194.191,443,true,KR,Asia Pacific,Seoul,293 ms,1694 kB/s
+129.158.198.241,2053,true,US,North America,Ashburn,318 ms,1541 kB/s
+158.180.231.216,443,true,IT,Europe,Milan,324 ms,1536 kB/s
+129.151.198.3,2053,true,SE,Europe,Stockholm,325 ms,1442 kB/s
