@@ -15,3 +15,6 @@ IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 104.17.126.252,443,TRUE,HK,Asia Pacific,Hong Kong,59 ms,7.14 MB/s
 104.17.153.230,443,TRUE,HK,Asia Pacific,Hong Kong,60 ms,9.99 MB/s
 104.16.145.188,443,TRUE,HK,Asia Pacific,Hong Kong,56 ms,7.07 MB/s
+172.65.237.23,443,TRUE,MXP,Europe,Milan,86 ms,0.00 MB/s
+172.65.236.177,443,TRUE,CDG,Europe,Paris,87 ms,0.00 MB/s
+172.65.238.193,443,TRUE,CDG,Europe,Paris,89 ms,0.00 MB/s
