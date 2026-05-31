@@ -1,0 +1,16 @@
+#!/sbin/openrc-run
+
+name="nginx"
+description="Nginx Web Server"
+
+command="/usr/local/nginx/sbin/nginx"
+command_args=""
+pidfile="/usr/local/nginx/logs/nginx.pid"
+
+depend() {
+    need net
+}
+
+start_pre() {
+    $command -t -q
+}
